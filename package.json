@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Claudiogoncalves/identify/issues"
   },
-  "homepage": "https://github.com/Claudiogoncalves/identify#readme"
+  "homepage": "https://github.com/Claudiogoncalves/identify#readme",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
