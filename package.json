@@ -1,0 +1,21 @@
+{
+  "name": "identify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claudiogoncalves/identify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claudiogoncalves/identify/issues"
+  },
+  "homepage": "https://github.com/Claudiogoncalves/identify#readme"
+}
