@@ -32,8 +32,8 @@ function Home() {
 					</header>
           <footer>
             <ul className="icons">
-              <li><a href="https://www.linkedin.com/in/claudiogoncalvesrp/" target="_blank"><span class="label"><FontAwesomeIcon className='test' icon={faLinkedin} size='lg' /></span></a></li>
-              <li><a href="https://github.com/Claudiogoncalves" target="_blank"><span class="label"><FontAwesomeIcon className='test' icon={faGithub} size='lg' /></span></a></li>
+              <li><a href="https://www.linkedin.com/in/claudiogoncalvesrp/" target="_blank"><span className="label"><FontAwesomeIcon className='test' icon={faLinkedin} size='lg' /></span></a></li>
+              <li><a href="https://github.com/Claudiogoncalves" target="_blank"><span className="label"><FontAwesomeIcon className='test' icon={faGithub} size='lg' /></span></a></li>
               <li><a href="https://twitter.com/_claudiorpg" target="_blank" className="icon brands fa-twitter"><FontAwesomeIcon icon={faTwitter} size='lg' /></a></li>
               {/* <li><a href="https://www.instagram.com/claudiogoncalvesrp/" target="_blank" className="icon brands fa-instagram"><FontAwesomeIcon icon={faInstagram} size='lg' /></a></li> */}
               <li><a href="https://www.facebook.com/claudiogoncalvesrp" target="_blank" className="icon brands fa-facebook-f"><FontAwesomeIcon
@@ -42,6 +42,7 @@ function Home() {
               size='lg'
             /></a></li>
             </ul>
+            <span>claudiogoncalvesrp@gmail.com</span>
           </footer>
         </section>
       </div>
